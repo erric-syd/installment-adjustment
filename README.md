@@ -1,6 +1,6 @@
 # installment-adjustment
 
-To see the adjustment, click: repayment_adjustment.ipynb
+To see the adjustment, click: installment_adjustment.ipynb
 
 Enjoy.
 
